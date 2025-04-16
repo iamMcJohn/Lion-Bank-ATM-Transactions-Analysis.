@@ -194,10 +194,8 @@ The analysis of Lion’s Bank ATM transaction data provides valuable insights in
 
 ## Recommendations
 
-- Optimize cash replenishment schedules based on peak transaction days and high-traffic ATMs.
+- Optimize cash replenishment schedules on Saturdays and Sundays at KK Nagar ATM as it is a high traffic location.
 
-- Increase ATM availability in high-demand locations to reduce congestion and improve accessibility.
+- Enhance customer engagement strategies by offering tailored services for lion card users.
 
-- Enhance customer engagement strategies by offering tailored services based on card usage behavior.
 
-- Implement predictive analytics to forecast ATM demand and improve cash allocation efficiency.
